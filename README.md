@@ -5,7 +5,7 @@ BUKO Project
 
 Buko is a low-cost, self-sufficient, wirelessly accessed, electronic library with curated content from the best educational-initiatives online – a hub of learning without the Internet.
 
-This project is based on the RACHEL server distribution which is part of the RACHEL Project, an initiative to make available rich and curated educational content to places where no Internet connectivity is available or the available bandwidth is unusable for most practical purposes.
+This project is based on the RACHEL server distribution which is part of the [RACHEL Project](http://pi.worldpossible.org/), an initiative to make available rich and curated educational content to places where no Internet connectivity is available or the available bandwidth is unusable for most practical purposes.
 
 Each piece of educational content is owned by the owners listed next to the content title in the RACHEL main page.
 
