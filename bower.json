@@ -1,0 +1,20 @@
+{
+  "name": "buko",
+  "version": "1.0.0",
+  "homepage": "https://github.com/philseven/buko",
+  "authors": [
+    "jgngo <ngo.jason@gmail.com>"
+  ],
+  "description": "BUKO",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "foundation": "~5.4.0"
+  }
+}

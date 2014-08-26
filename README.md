@@ -13,7 +13,8 @@ Boundless Knowledge Offline
 
 This project is an offline and compact compilation of educational content containing more than 2,000 selected Khan Academy video lectures on Math and Science, ebooks from OLPC, CK-12 Project Gutenburg, and organized by Philippine educators in a very user-friendly format. The content can be viewed and played on modern HTML5 browsers desktop computers and mobile devices like iPads, iPhones and Android devices.
 
-* Installation
+Installation
+------------
 
 Download the update file (buko_yyyymmdd) that replaces the default Rachel contents to BUKO. 
 For now, this needs to be done manually but a script could potentially work. Connect to the by wifi to RPI:
